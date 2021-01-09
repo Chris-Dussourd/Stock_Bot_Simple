@@ -1,7 +1,7 @@
 #Information needed to authenticate my TD developer account
 consumer_key=''
 redirect_uri=''
-client_id=consumer_key+''
+client_id=consumer_key+'@AMER.OAUTHAP'
 
 #Local path for the chromedriver
 driver_path = r''
